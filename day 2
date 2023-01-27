@@ -1,1 +1,12 @@
 
+first_name = "Zainab"
+last_name = "Abdulfattah"
+full_name = first_name + " " + last_name
+country = "Nigeria"
+city = "Gombe"
+age = 25
+year = 2023
+is_married = False
+is_true = True
+is_light_on = False
+x,y,z = 2,3,4
