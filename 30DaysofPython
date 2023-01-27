@@ -1,4 +1,4 @@
-#Find an Euclidian distance between (2, 3) and (10, 8)
+#Find an Euclidian distance btwn (2, 3) and (10, 8)
 #The Euclidean distance between two points in Euclidean space is the length of a line segment between the two points.
 
 p1, q1 = 2, 3
