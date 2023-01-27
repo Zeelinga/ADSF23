@@ -1,4 +1,4 @@
-
+Ex 1
 first_name = "Zainab"
 last_name = "Abdulfattah"
 full_name = first_name + " " + last_name
@@ -10,3 +10,54 @@ is_married = False
 is_true = True
 is_light_on = False
 x,y,z = 2,3,4
+
+Ex 2.1
+print(type(first_name))
+print(type(last_name))
+print(type(full_name))
+print(type(country))
+print(type(city))
+print(type(age))
+print(type(year))
+print(type(is_married))
+print(type(is_true))
+print((type(is_light_on)))
+print(type(x))
+print(type(y))
+print(type(z))
+
+Ex 2.2
+print(len(first_name))
+
+Ex 2.3
+if len(first_name) > len(last_name):
+    print("First Name is longer")
+elif len(last_name) > len(first_name):
+    print("Last name is longer")
+else:
+    print("They have equal lengh")
+    
+Ex 2.4
+
+num_one = 5
+num_two = 4
+total = num_one + num_two
+diff = num_one - num_two
+product = num_one * num_two
+division = num_one / num_two
+remainder = num_two % num_one
+exp = num_one ** num_two
+floor_division = num_one // num_two
+
+Ex 2.5
+radius = 30
+area = 3.14 * (radius ** 2)
+circumference = 2 * 3.14 * radius
+print(area)
+print(circumference)
+
+Ex 2.6
+first_name = input("Enter Your First Name: ")
+last_name = input("Enter Your Last Name: ")
+country = input("Enter Your Country: ")
+age = input("Enter Your Age: ")
